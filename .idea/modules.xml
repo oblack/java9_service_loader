@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modular_Intellij.iml" filepath="$PROJECT_DIR$/Modular_Intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one.genchev.java9.app/one.genchev.java9.app.iml" filepath="$PROJECT_DIR$/one.genchev.java9.app/one.genchev.java9.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one.genchev.java9.server/one.genchev.java9.server.iml" filepath="$PROJECT_DIR$/one.genchev.java9.server/one.genchev.java9.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one.genchev.java9.server.kid/one.genchev.java9.server.kid.iml" filepath="$PROJECT_DIR$/one.genchev.java9.server.kid/one.genchev.java9.server.kid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one.genchev.java9.server.programming/one.genchev.java9.server.programming.iml" filepath="$PROJECT_DIR$/one.genchev.java9.server.programming/one.genchev.java9.server.programming.iml" />
+    </modules>
+  </component>
+</project>
